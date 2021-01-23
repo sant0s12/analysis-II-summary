@@ -1,4 +1,4 @@
-# analysis-II-summary
+# Analysis II Summary
 Analysis II go brrr
 
 Sources:
